@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "01",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Tabaco Cohiba original en nylon de los minis",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Cohiba",
+          "price_cup": 300.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "02",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Tabaco Cohiba 55 aniversarios",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Cohiba",
+          "price_cup": 500.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "03",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Mazo de tabaco Mareva original",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Mareva",
+          "price_cup": 7000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "04",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Mazo de 25 Tabacos",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 4000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "05",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Mareva Tabacos habanos de todos los modelos",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Mareva",
+          "price_cup": 34400.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "06",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "25 Tabacos Guantanamera (5 y 10 decimos)",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Guantanamera",
+          "price_cup": 4300.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "07",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "25 Tabacos Pirámides Originales",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 10000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "08",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Tabacos originales de todas las marcas",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 500.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "09",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Tabacos medianos",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 250.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Tabacos grandes",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 350.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Tabacos grandes",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 400.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "establishment": {
+      "name": "Anuncio Revolico - Tabacos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "4 tabacos originales con caja incluida",
+          "category": "Tabacos",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 10750.0
+        }
+      ]
+    }
+  },
+  {
+    
+    "id": "13",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron Santiago 12 Años",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Santiago",
+          "price_cup": 9500.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron Habana Club",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Habana Club",
+          "price_cup": 2000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron Habana Club 'ritual' 700ml",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Habana Club",
+          "price_cup": 2000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron Habana Club 700 ml",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Habana Club",
+          "price_cup": 1800.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron Santiago 65 aniversario Edición Limitada",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Santiago",
+          "price_cup": 30100.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron añejo 15 años sellado en estuche original",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 51600.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron Cubay 200ml",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Cubay",
+          "price_cup": 300.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron cubano",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 365500.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron Habana Club 15 años en cilindro",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Habana Club",
+          "price_cup": 43000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "establishment": {
+      "name": "Anuncio Revolico - Rones",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Ron Refino - Caja por 12 Unidades (1lt cada una)",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Refino",
+          "price_cup": 750.0
+ }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "establishment": {
+      "name": "Venta de Rones Cubanos",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Arroyo Los Pinos, San Miguel",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Habana Club Reserva",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Habana Club",
+          "price_cup": 1100.0
+        },
+        {
+          "name": "Havana Club 3 años",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Habana Club",
+          "price_cup": 1500.0
+        },
+        {
+          "name": "Habana Club Reserva",
+          "category": "Bebidas Alcohólicas",
+          "origin": "CU",
+          "manufacturer": "Habana Club",
+          "price_cup": 2000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café Cubita de 460g, 100% original",
+          "category": "Bebidas",
+          "origin": "CU",
+          "manufacturer": "Cubita",
+          "price_cup": 2700.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café fuerte cubano",
+          "category": "Bebidas",
+          "origin": "CU",
+          "manufacturer": "Varios",
+          "price_cup": 950.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café DUFILTRO Brasil (250gr)",
+          "category": "Bebidas",
+          "origin": "BR",
+          "manufacturer": "DUFILTRO",
+          "price_cup": 1100.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Paquete de café italiano de 250g",
+          "category": "Bebidas",
+          "origin": "ITA",
+          "manufacturer": "Varios",
+          "price_cup": 1350.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café italiano marca Juliano de 250g",
+          "category": "Bebidas",
+          "origin": "ITA",
+          "manufacturer": "Juliano",
+          "price_cup": 2300.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "100 Cápsulas de café expreso Italiano 'Carraro' línea Nespresso",
+          "category": "Bebidas",
+          "origin": "ITA",
+          "manufacturer": "Carraro",
+          "price_cup": 22000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café La Llave",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "La Llave",
+          "price_cup": 3000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café la llave dorado, Bustelo, morro aroma",
+          "category": "Bebidas",
+          "origin": "Varios",
+          "manufacturer": "Varios",
+          "price_cup": 1600.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café la llave y Dorado",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "La Llave",
+          "price_cup": 1600.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café Sello Rojo",
+          "category": "Bebidas",
+          "origin": "COL",
+          "manufacturer": "Sello Rojo",
+          "price_cup": 2300.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café Brasileño Sebraz extra fuerte",
+          "category": "Bebidas",
+          "origin": "BR",
+          "manufacturer": "Sebraz",
+          "price_cup": 1600.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café La Llave",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "La Llave",
+          "price_cup": 2300.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café Juan Valdez Liofilizado Clásico x 250g",
+          "category": "Bebidas",
+          "origin": "COL",
+          "manufacturer": "Juan Valdez",
+          "price_cup": 6000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "establishment": {
+      "name": "Anuncio Revolico - Café",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café la llave",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "La Llave",
+          "price_cup": 1500.0
+       }
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "establishment": {
+      "name": "Anuncio Revolico - Azúcar",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Azúcar 1Kg",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 700.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "establishment": {
+      "name": "Anuncio Revolico - Azúcar",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Fresko Azúcar Parda SANTA ANA",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "Santa Ana",
+          "price_cup": 24600.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "establishment": {
+      "name": "Anuncio Revolico - Azúcar",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Azúcar blanca de importación saco de 25kg (55 lbs)",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 14200.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "establishment": {
+      "name": "Anuncio Revolico - Azúcar",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Azúcar Blanca MIRANTE",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "Mirante",
+          "price_cup": 540.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "establishment": {
+      "name": "Anuncio Revolico - Azúcar",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Azúcar Conoro",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "Conoro",
+          "price_cup": 560.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "establishment": {
+      "name": "Anuncio Revolico - Azúcar",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Azúcar blanca 1kg sublime",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "Sublime",
+          "price_cup": 850.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "establishment": {
+      "name": "Anuncio Revolico - Azúcar",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Contenedores de Azúcar 50 Kg",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 20640.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "establishment": {
+      "name": "Anuncio Revolico - Azúcar",
+      "location": {
+        "municipality": "No especificado",
+        "address": "Anuncio en Revolico",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Contenedor de Azúcar Brasileño Venta Completo",
+          "category": "Azúcar",
+          "origin": "BR",
+          "manufacturer": "",
+          "price_cup": 24080.0
+        }
+      ]
+    }
+  }
+]

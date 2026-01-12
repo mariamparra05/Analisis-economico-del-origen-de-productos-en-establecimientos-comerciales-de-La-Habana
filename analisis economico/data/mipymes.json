@@ -1,0 +1,2736 @@
+[
+  {
+    "id": 1,
+    "establishment": {
+      "name": "Bodegón de Calzada",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calzada / Paseo & A",
+        "coordinates": {
+          "latitude": 23.137886472972525,
+          "longitude": -82.39905099268489
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Blanco",
+          "category": "Cereales",
+          "origin": "BR",
+          "manufacturer": "Camil",
+          "price_cup": 680.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "establishment": {
+      "name": "Mi Mercadito, Llegando",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle 5ta / E & F",
+        "coordinates": {
+          "latitude": 23.142513466690126,
+          "longitude": -82.39636878359543
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Super Extra",
+          "category": "Cereales",
+          "origin": "MX",
+          "manufacturer": "San Diego",
+          "price_cup": 580.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "establishment": {
+      "name": "El Rey, SRL",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle F / 3ra y 5ta, Edif. 53, Vedado",
+        "coordinates": {
+          "latitude": 23.143549338937667,
+          "longitude": -82.39613274924378
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Blanco Top",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 850.0
+        },
+        {
+          "name": "Arroz Blanco Largo",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1320.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "establishment": {
+      "name": "Canelita",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calzada / H e I",
+        "coordinates": {
+          "latitude": 23.144289242769883,
+          "longitude": -82.39233474133954
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Blanco Super Extra",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 950.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "establishment": {
+      "name": "Dulce María",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calzada / L & K",
+        "coordinates": {
+          "latitude": 23.14548294568802,
+          "longitude": -82.38870839480781
+        }
+      },
+      "products": [
+        {
+          "name": "Long Grane White Rice",
+          "category": "Cereales",
+          "origin": "BR",
+          "manufacturer": "Energy",
+          "price_cup": 650.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "establishment": {
+      "name": "Tic Toc",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "L & 11, Vedado",
+        "coordinates": {
+          "latitude": 23.144960085398168,
+          "longitude": -82.38794664726426
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Blanco",
+          "category": "Cereales",
+          "origin": "BR",
+          "manufacturer": "Sublime",
+          "price_cup": 650.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1675.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 900.0
+        },
+        {
+          "name": "Leche Condensada",
+          "category": "Lácteos",
+          "origin": "MA",
+          "manufacturer": "Castellum",
+          "price_cup": 550.0
+        },
+        {
+          "name": "Picadillo de Pollo",
+          "category": "Carnicos",
+          "origin": "POL",
+          "manufacturer": "Polskamp",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Pechuga de Pollo",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 650.0
+        },
+        {
+          "name": "Café Expresso",
+          "category": "Bebidas",
+          "origin": "MX",
+          "manufacturer": "El Dorado",
+          "price_cup": 1950.0
+        },
+        {
+          "name": "Café Expresso",
+          "category": "Bebidas",
+          "origin": "COL",
+          "manufacturer": "Sello Rojo",
+          "price_cup": 2500.0
+        },
+        {
+          "name": "Café Molido",
+          "category": "Bebidas",
+          "origin": "CU",
+          "manufacturer": "Isla Grande",
+          "price_cup": 1600.0
+        },
+        {
+          "name": "Café Molido",
+          "category": "Bebidas",
+          "origin": "CU",
+          "manufacturer": "Isla Grande",
+          "price_cup": 3000.0
+        },
+        {
+          "name": "Frijoles Colorados",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 780.0
+        },
+        {
+          "name": "Frijoles Negros",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Aceite de Soja",
+          "category": "Grasas",
+          "origin": "MX",
+          "manufacturer": "Sarita",
+          "price_cup": 890.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "COL",
+          "manufacturer": "Badelli",
+          "price_cup": 990.0
+        },
+        {
+          "name": "Azúcar Crystal",
+          "category": "Azúcar",
+          "origin": "BR",
+          "manufacturer": "Energy",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Sal Marina",
+          "category": "Condimentos",
+          "origin": "MA",
+          "manufacturer": "Polasal",
+          "price_cup": 620.0
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Pastas",
+          "origin": "ITA",
+          "manufacturer": "Donatella",
+          "price_cup": 350.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "TR",
+          "manufacturer": "Zer",
+          "price_cup": 580.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "establishment": {
+      "name": "Bodegón B12",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Blanco",
+          "category": "Cereales",
+          "origin": "BR",
+          "manufacturer": "Qbanito",
+          "price_cup": 700.0
+        },
+        {
+          "name": "Café Molido",
+          "category": "Bebidas",
+          "origin": "CU",
+          "manufacturer": "Isla Grande",
+          "price_cup": 1500.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "establishment": {
+      "name": "Ale´s Supermarket",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Línea / 10 & 12",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Café Soluble",
+          "category": "Infuciones",
+          "origin": "ES",
+          "manufacturer": "Hiper Dino",
+          "price_cup": 2350.0
+        },
+        {
+          "name": "Café Tostado",
+          "category": "Bebidas",
+          "origin": "ITA",
+          "manufacturer": "Caffe Testa",
+          "price_cup": 1800.0
+        },
+        {
+          "name": "Arroz Blanco",
+          "category": "Cereales",
+          "origin": "BR",
+          "manufacturer": "Sublime",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Arroz Largo Fino",
+          "category": "Cereales",
+          "origin": "CU",
+          "manufacturer": "TropiGusto",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Arroz Super Extra",
+          "category": "Cereales",
+          "origin": "MX",
+          "manufacturer": "San Diego",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Azúcar Crystal",
+          "category": "Azúcar",
+          "origin": "BR",
+          "manufacturer": "Santaisabel",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Azúcar Crystal",
+          "category": "Azúcar",
+          "origin": "BR",
+          "manufacturer": "Energy",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Fijoles Negros",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 800.0
+        },
+        {
+          "name": "Frijoles Colorados",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 800.0
+        },
+        {
+          "name": "Café Soluble",
+          "category": "Infuciones",
+          "origin": "MX",
+          "manufacturer": "Internacional",
+          "price_cup": 2100.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 1300.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Covap",
+          "price_cup": 1300.0
+        },
+        {
+          "name": "Leche Condensada",
+          "category": "Lácteos",
+          "origin": "MA",
+          "manufacturer": "La Guajirita",
+          "price_cup": 560.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "ITA",
+          "manufacturer": "Victoria Garden",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "PA",
+          "manufacturer": "Marwa",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Pastas",
+          "origin": "TR",
+          "manufacturer": "Ada",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Pastas",
+          "origin": "TR",
+          "manufacturer": "Doga",
+          "price_cup": 370.0
+        },
+        {
+          "name": "Pechuga de Pollo",
+          "category": "Carnicos",
+          "origin": "US",
+          "manufacturer": "Aurora",
+          "price_cup": 4800.0
+       }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "establishment": {
+      "name": "Fress",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "23 & 12",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Extra",
+          "category": "Cereales",
+          "origin": "ES",
+          "manufacturer": "Convirán",
+          "price_cup": 1600.0
+        },
+        {
+          "name": "Arroz Integral",
+          "category": "Cereales",
+          "origin": "ES",
+          "manufacturer": "Convirán",
+          "price_cup": 1575.0
+        },
+        {
+          "name": "Arroz Largo",
+          "category": "Cereales",
+          "origin": "ES",
+          "manufacturer": "SOS",
+          "price_cup": 1207.0
+        },
+        {
+          "name": "Café Molido",
+          "category": "Bebidas",
+          "origin": "BR",
+          "manufacturer": "Sebraz",
+          "price_cup": 1575.0
+        },
+        {
+          "name": "Café Molido",
+          "category": "Bebidas",
+          "origin": "ES",
+          "manufacturer": "Purasangre",
+          "price_cup": 1973.0
+        },
+        {
+          "name": "Café Molido",
+          "category": "Bebidas",
+          "origin": "ES",
+          "manufacturer": "Marcilla",
+          "price_cup": 4322.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "establishment": {
+      "name": "Familia Peréz",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "23 & 24",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Blanco",
+          "category": "Cereales",
+          "origin": "MX",
+          "manufacturer": "Onis",
+          "price_cup": 670.0
+        },
+        {
+          "name": "Fijoles Negros",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 800.0
+        },
+        {
+          "name": "Fijoles Negros",
+          "category": "Legumbres",
+          "origin": "BR",
+          "manufacturer": "Sublime",
+          "price_cup": 1000.0
+        },
+        {
+          "name": "Espaguetti",
+          "category": "Pastas",
+          "origin": "ITA",
+          "manufacturer": "Dolcezza",
+          "price_cup": 350.0
+        },
+        {
+          "name": "Cartón de Huevos",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 3000.0
+         }
+      ]
+    }
+  },
+    {
+    "id": 11,
+    "establishment": {
+      "name": "Bodegón, Las Duras",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle, dirección",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Cartón de Huevos",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 3000.0
+        },
+        {
+          "name": "Huevos Individual",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 120.0
+        },
+        {
+          "name": "Perritos",
+          "category": "Embutidos",
+          "origin": "BR",
+          "manufacturer": "Quality",
+          "price_cup": 365.0
+        },
+        {
+          "name": "Salchichas de Pollo",
+          "category": "Embutidos",
+          "origin": "BR",
+          "manufacturer": "Quality",
+          "price_cup": 1200.0
+        },
+        {
+          "name": "Pechuga de Pollo",
+          "category": "Carnicos",
+          "origin": "BR",
+          "manufacturer": "Friato",
+          "price_cup": 3650.0
+        },
+        {
+          "name": "Pollo Entero",
+          "category": "Carnicos",
+          "origin": "BR",
+          "manufacturer": "Seara",
+          "price_cup": 2200.0
+        },
+        {
+          "name": "Picadillo de Pollo",
+          "category": "Carnicos",
+          "origin": "BR",
+          "manufacturer": "Quality",
+          "price_cup": 650.0
+        },
+        {
+          "name": "Picadillo de Pollo",
+          "category": "Carnicos",
+          "origin": "POL",
+          "manufacturer": "Polskamp",
+          "price_cup": 650.0
+        },
+        {
+          "name": "Picadillo de Pollo",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 800.0
+        },
+        {
+          "name": "Aceite Refinado Girasol",
+          "category": "Grasas",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 990.0
+        },
+        {
+          "name": "Aceite de Oliva",
+          "category": "Grasas",
+          "origin": "ES",
+          "manufacturer": "Guillen",
+          "price_cup": 4200.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 1100.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Picadillo de Pollo",
+          "category": "Granel",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 800.0
+        },
+        {
+          "name": "Café Expresso",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "La LLave",
+          "price_cup": 2800.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "establishment": {
+      "name": "Bodegón Oasis",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle J / Línea y 11 #210 B",
+        "coordinates": {
+          "latitude": 23.142885569598498,
+          "longitude": -82.38939285278322
+        }
+      },
+      "products": [
+        {
+          "name": "Leche en Polvo",
+          "category": "Lácteos",
+          "origin": "BR",
+          "manufacturer": "Itambé",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Leche Descremada",
+          "category": "Lácteos",
+          "origin": "DO",
+          "manufacturer": "Rica",
+          "price_cup": 925.0
+        },
+        {
+          "name": "Leche Evaporada",
+          "category": "Lácteos",
+          "origin": "DO",
+          "manufacturer": "Rica",
+          "price_cup": 695.0
+        },
+        {
+          "name": "Listamilk",
+          "category": "Lácteos",
+          "origin": "DO",
+          "manufacturer": "Rica",
+          "price_cup": 1170.0
+        },
+        {
+          "name": "Café con Leche",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Puleva",
+          "price_cup": 3200.0
+        },
+        {
+          "name": "Leche Condensada",
+          "category": "Lácteos",
+          "origin": "MA",
+          "manufacturer": "Zivel",
+          "price_cup": 620.0
+        },
+        {
+          "name": "Bebidas",
+          "category": "Bebidas",
+          "origin": "",
+          "manufacturer": "Buenos Días",
+          "price_cup": 1450.0
+        },
+        {
+          "name": "Aceite de Oliva",
+          "category": "Grasas",
+          "origin": "ES",
+          "manufacturer": "Guillen",
+          "price_cup": 4600.0
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Pastas",
+          "origin": "ITA",
+          "manufacturer": "Donatella",
+          "price_cup": 410.0
+        },
+        {
+          "name": "Arroz Super Extra",
+          "category": "Cereales",
+          "origin": "MX",
+          "manufacturer": "KDM Gold",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Azúcar Crystal",
+          "category": "Azúcar",
+          "origin": "BR",
+          "manufacturer": "Uniao",
+          "price_cup": 730.0
+         }
+      ]
+    }
+  },
+   {
+    "id": 13,
+    "establishment": {
+      "name": "Kaluch Market",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle 12 #23 apto 1 e/ 1ra y 3ra, Vedado, Plaza de la Revolución",
+        "coordinates": {
+          "latitude": 23.136033832104463,
+          "longitude": -82.40746021270753
+        }
+      },
+      "products": [
+        {
+          "name": "Docena de Huevos",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1800.0
+        },
+        {
+          "name": "Huevos Individual",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 110.0
+        },
+        {
+          "name": "Pechuga de Pollo",
+          "category": "Carnicos",
+          "origin": "BR",
+          "manufacturer": "Sadia",
+          "price_cup": 3300.0
+        },
+        {
+          "name": "Picadillo de Res",
+          "category": "Carnicos",
+          "origin": "BR",
+          "manufacturer": "Sadia",
+          "price_cup": 3500.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 650.0
+        },
+        {
+          "name": "Azúcar Blanca",
+          "category": "Azúcar",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 1000.0
+        },
+        {
+          "name": "Espaguetti",
+          "category": "Pastas",
+          "origin": "BR",
+          "manufacturer": "Galo",
+          "price_cup": 410.0
+        },
+        {
+          "name": "Café La Llave",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "La LLave",
+          "price_cup": 2700.0
+        },
+        {
+          "name": "Café Molido Mezcla",
+          "category": "Bebidas",
+          "origin": "ES",
+          "manufacturer": "Coaliment",
+          "price_cup": 2100.0
+        },
+        {
+          "name": "Café Molido Mezcla",
+          "category": "Bebidas",
+          "origin": "ES",
+          "manufacturer": "Gourmet",
+          "price_cup": 2100.0
+        },
+        {
+          "name": "Café Tostado",
+          "category": "Bebidas",
+          "origin": "BR",
+          "manufacturer": "Sebraz",
+          "price_cup": 1900.0
+        },
+        {
+          "name": "Aceite de Oliva",
+          "category": "Grasas",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 8800.0
+        },
+        {
+          "name": "Aceite de Oliva",
+          "category": "Grasas",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 2800.0
+        },
+        {
+          "name": "Sal Marina",
+          "category": "Condimentos",
+          "origin": "ES",
+          "manufacturer": "Convirán",
+          "price_cup": 1000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "establishment": {
+      "name": "Mercado El Ten Cent",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle 19 #870 e/ 4 y 6, Vedado Ave. Carlos III #704 e/ Soledad y Castillo Centro Habana",
+        "coordinates": {
+          "latitude": 23.131283285903606,
+          "longitude": -82.39859303601817
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Super Extra",
+          "category": "Cereales",
+          "origin": "MX",
+          "manufacturer": "KDM Gold",
+          "price_cup": 780.0
+        },
+        {
+          "name": "Café Molido",
+          "category": "Bebidas",
+          "origin": "CU",
+          "manufacturer": "Isla Grande",
+          "price_cup": 1800.0
+        },
+        {
+          "name": "Café Molido",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "Yeya",
+          "price_cup": 2450.0
+        },
+        {
+          "name": "Café Molido Expresso",
+          "category": "Bebidas",
+          "origin": "CH",
+          "manufacturer": "Caribe",
+          "price_cup": 2200.0
+        },
+        {
+          "name": "Café La Llave",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "La LLave",
+          "price_cup": 5240.0
+        },
+        {
+          "name": "Nescafé",
+          "category": "Infuciones",
+          "origin": "AR",
+          "manufacturer": "Dolca",
+          "price_cup": 2800.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "establishment": {
+      "name": "Bodegón D'K",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle, dirección",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Cartón de Huevos",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 3300.0
+        },
+        {
+          "name": "Huevos Individual",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 110.0
+        },
+        {
+          "name": "Pechuga de Pollo",
+          "category": "Carnicos",
+          "origin": "BR",
+          "manufacturer": "Friato",
+          "price_cup": 5300.0
+        },
+        {
+          "name": "Pechuga de Pollo",
+          "category": "Carnicos",
+          "origin": "BR",
+          "manufacturer": "Sadia",
+          "price_cup": 3700.0
+        },
+        {
+          "name": "Pollo Entero",
+          "category": "Carnicos",
+          "origin": "BR",
+          "manufacturer": "Seara",
+          "price_cup": 2200.0
+        },
+        {
+          "name": "Picadillo de Res",
+          "category": "Carnicos",
+          "origin": "CU",
+          "manufacturer": "Delicias Estrella",
+          "price_cup": 1700.0
+        },
+        {
+          "name": "Picadillo de Pollo",
+          "category": "Carnicos",
+          "origin": "BR",
+          "manufacturer": "Gui Bon",
+          "price_cup": 490.0
+        },
+        {
+          "name": "Sal Fina",
+          "category": "Condimentos",
+          "origin": "MA",
+          "manufacturer": "Polasal",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Azúcar Crystal",
+          "category": "Azúcar",
+          "origin": "BR",
+          "manufacturer": "Energy",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Azúcar Blanca",
+          "category": "Azúcar",
+          "origin": "COL",
+          "manufacturer": "Ingenio Carmelita",
+          "price_cup": 1600.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "PA",
+          "manufacturer": "Marwa",
+          "price_cup": 570.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 740.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "ES",
+          "manufacturer": "Columba",
+          "price_cup": 450.0
+        },
+        {
+          "name": "Pasta de Tomate Mansana Roja",
+          "category": "Procesados",
+          "origin": "ITA",
+          "manufacturer": "Columba",
+          "price_cup": 970.0
+        },
+        {
+          "name": "Arroz Blanco",
+          "category": "Cereales",
+          "origin": "BR",
+          "manufacturer": "Patéko",
+          "price_cup": 780.0
+        },
+        {
+          "name": "Frijoles Negros",
+          "category": "Legumbres",
+          "origin": "BR",
+          "manufacturer": "Cister",
+          "price_cup": 850.0
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Pastas",
+          "origin": "TR",
+          "manufacturer": "Doga",
+          "price_cup": 380.0
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Pastas",
+          "origin": "COL",
+          "manufacturer": "Rioka",
+          "price_cup": 830.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 1200.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "BR",
+          "manufacturer": "Cremor",
+          "price_cup": 1200.0
+        },
+        {
+          "name": "Leche Condensada",
+          "category": "Lácteos",
+          "origin": "BR",
+          "manufacturer": "Cremor",
+          "price_cup": 570.0
+        },
+        {
+          "name": "Leche Condensada",
+          "category": "Lácteos",
+          "origin": "MA",
+          "manufacturer": "La Granjera",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Leche Condensada",
+          "category": "Lácteos",
+          "origin": "MA",
+          "manufacturer": "Zivel",
+          "price_cup": 620.0
+        },
+        {
+          "name": "Leche Condensada",
+          "category": "Lácteos",
+          "origin": "MA",
+          "manufacturer": "Sweet Valley",
+          "price_cup": 580.0
+        },
+        {
+          "name": "Leche en Polvo",
+          "category": "Granel",
+          "origin": "IE",
+          "manufacturer": "Lantana",
+          "price_cup": 1675.0
+        },
+        {
+          "name": "Aceite Girasol",
+          "category": "Grasas",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 990.0
+        },
+        {
+          "name": "Aceite de Oliva",
+          "category": "Grasas",
+          "origin": "AR",
+          "manufacturer": "Laura",
+          "price_cup": 4250.0
+        },
+        {
+          "name": "Café Expresso",
+          "category": "Bebidas",
+          "origin": "",
+          "manufacturer": "Buenos Días",
+          "price_cup": 1450.0
+        },
+        {
+          "name": "Café Expresso",
+          "category": "Bebidas",
+          "origin": "CU",
+          "manufacturer": "Isla Grande",
+          "price_cup": 1600.0
+        },
+        {
+          "name": "Café Expresso",
+          "category": "Bebidas",
+          "origin": "ES",
+          "manufacturer": "Don Anecio",
+          "price_cup": 1850.0
+        },
+        {
+          "name": "Café Expresso",
+          "category": "Bebidas",
+          "origin": "CU",
+          "manufacturer": "Minino",
+          "price_cup": 1450.0
+        },
+        {
+          "name": "Café Paraná",
+          "category": "Bebidas",
+          "origin": "CU",
+          "manufacturer": "Paraná",
+          "price_cup": 1700.0
+        },
+        {
+          "name": "Café Negro",
+          "category": "Bebidas",
+          "origin": "ITA",
+          "manufacturer": "Testa",
+          "price_cup": 1850.0
+        },
+        {
+          "name": "Café Expresso",
+          "category": "Bebidas",
+          "origin": "PR",
+          "manufacturer": "El Morro",
+          "price_cup": 2250.0
+        },
+        {
+          "name": "Café La Llave",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "La LLave",
+          "price_cup": 2900.0
+        },
+        {
+          "name": "Café Yeya",
+          "category": "Bebidas",
+          "origin": "US",
+          "manufacturer": "Yeya",
+          "price_cup": 2450.0
+         }
+      ]
+    }
+  },
+    {
+    "id": 16,
+    "establishment": {
+      "name": "Andrea | Café & Mercado",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle 23 esquina 12. Vedado",
+        "coordinates": {
+          "latitude": 23.127150881141585,
+          "longitude": -82.39991247653963
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz Super Extra",
+          "category": "Cereales",
+          "origin": "MX",
+          "manufacturer": "San Diego",
+          "price_cup": 750.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "establishment": {
+      "name": "Villa Amada",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle 25 entre J e I, Vedado",
+        "coordinates": {
+          "latitude": 23.13714167830714,
+          "longitude": -82.3845369052301
+        }
+      },
+      "products": [
+        {
+          "name": "Fijoles Negros",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 670.0
+        },
+        {
+          "name": "Arroz Super Extra",
+          "category": "Cereales",
+          "origin": "MX",
+          "manufacturer": "San Diego",
+          "price_cup": 660.0
+        },
+        {
+          "name": "Leche",
+          "category": "Lácteos",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Café Molido Español",
+          "category": "Bebidas",
+          "origin": "ES",
+          "manufacturer": "Bryderk",
+          "price_cup": 1870.0
+        },
+        {
+          "name": "Café Soluble",
+          "category": "Infuciones",
+          "origin": "NI",
+          "manufacturer": "Presto",
+          "price_cup": 1180.0
+        },
+        {
+          "name": "Aceite de Soja",
+          "category": "Grasas",
+          "origin": "BR",
+          "manufacturer": "Saude",
+          "price_cup": 1150.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "establishment": {
+      "name": "La Nenita",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle, dirección",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Leche Condensada",
+          "category": "Lácteos",
+          "origin": "MA",
+          "manufacturer": "La Guajirita",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "CN",
+          "manufacturer": "Campo",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Salchichas de Pollo/Cerdo",
+          "category": "Embutidos",
+          "origin": "BR",
+          "manufacturer": "La Favorita",
+          "price_cup": 450.0
+        },
+        {
+          "name": "Aceite de Soja",
+          "category": "Grasas",
+          "origin": "BR",
+          "manufacturer": "Saude",
+          "price_cup": 990.0
+        },
+        {
+          "name": "Frijoles Colorados",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Frijoles Negros",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Arroz Blanco Super Extra",
+          "category": "Cereales",
+          "origin": "MX",
+          "manufacturer": "San Diego",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Café Tostado",
+          "category": "Bebidas",
+          "origin": "ITA",
+          "manufacturer": "Caffe Testa",
+          "price_cup": 1600.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "establishment": {
+      "name": "Pazillo Fresh",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle 4 e/ 3ra y 5ta, Vedado",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Asturiana",
+          "price_cup": 1400.0
+          },
+        {
+          "name": "Cartón de Huevos",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 2900.0
+      }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "establishment": {
+      "name": "May May",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Calle J #402 e/ 19 y 21, Vedado",
+        "coordinates": {
+          "latitude": 23.1398713,
+          "longitude": -82.3910901
+        }
+      },
+      "products": [
+        {
+          "name": "Aceite Girasol",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1150.0
+        },
+        {
+          "name": "Picadillo de Pollo",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 610.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 1150.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "TR",
+          "manufacturer": "Doga",
+          "price_cup": 310.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "Tukas",
+          "price_cup": 590.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "establishment": {
+      "name": "Xalxa",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "L & Línea",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 1190.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 680.0
+        },
+        {
+          "name": "Café Molido",
+          "category": "Bebidas",
+          "origin": "ES",
+          "manufacturer": "Gourmet",
+          "price_cup": 2750.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "establishment": {
+      "name": "Mercado M & L",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "Calle, dirección",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Frijoles Negros",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 1000.0
+        },
+        {
+          "name": "Frijoles Colorados",
+          "category": "Legumbres",
+          "origin": "US",
+          "manufacturer": "Del Campo",
+          "price_cup": 730.0
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Pastas",
+          "origin": "TR",
+          "manufacturer": "Doga",
+          "price_cup": 340.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Vima",
+          "price_cup": 1200.0
+        },
+        {
+          "name": "Leche Entera",
+          "category": "Lácteos",
+          "origin": "ES",
+          "manufacturer": "Asturiana",
+          "price_cup": 1200.0
+        },
+        {
+          "name": "Pasta de Tomate",
+          "category": "Procesados",
+          "origin": "ES",
+          "manufacturer": "Gourmet",
+          "price_cup": 500.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "establishment": {
+      "name": "La Complicidad",
+      "location": {
+        "municipality": "Plaza de la Revolución",
+        "address": "B E/21 y 23",
+        "coordinates": {
+          "latitude": 23.133287,
+          "longitude": -82.392971
+        }
+      },
+      "products": [
+        {
+          "name": "Huevo",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 3300.0
+        },
+        {
+          "name": "Pechuga de Pollo",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 4700.0
+        },
+        {
+          "name": "Hígado de Pollo",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 950.0
+        },
+        {
+          "name": "Café",
+          "category": "Bebidas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Azúcar",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 700.0
+        },
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 760.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1000.0
+        },
+        {
+          "name": "Frijoles Negros",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 950.0
+        },
+        {
+          "name": "Malta",
+          "category": "Bebidas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 260.0
+         }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "establishment": {
+      "name": "Distribuidora del Cerro",
+      "location": {
+        "municipality": "Cerro",
+        "address": "",
+        "coordinates": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "products": [
+        {
+          "name": "Crema para el Café (200g)",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 550.0
+        },
+        {
+          "name": "La Sabrosita - Chocolate en polvo 200g",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "La Sabrosita",
+          "price_cup": 550.0
+        },
+        {
+          "name": "BRINKY - Chocolate",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "BRINKY",
+          "price_cup": 50.0
+        },
+        {
+          "name": "BRINKY - Fresa",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "BRINKY",
+          "price_cup": 50.0
+        },
+        {
+          "name": "BRINKY - Vainilla",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "BRINKY",
+          "price_cup": 50.0
+        },
+        {
+          "name": "TWINNIES - Chocolate",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "TWINNIES",
+          "price_cup": 48.0
+        },
+        {
+          "name": "TWINNIES - Vainilla",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "TWINNIES",
+          "price_cup": 48.0
+        },
+        {
+          "name": "TWINNIES - Choco Vainilla",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "TWINNIES",
+          "price_cup": 48.0
+        },
+        {
+          "name": "TWINNIES - Fresa",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "TWINNIES",
+          "price_cup": 48.0
+        },
+        {
+          "name": "NIKS",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "NIKS",
+          "price_cup": 110.0
+        },
+        {
+          "name": "Efsane",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "Efsane",
+          "price_cup": 110.0
+        },
+        {
+          "name": "NUBI",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "NUBI",
+          "price_cup": 120.0
+        },
+        {
+          "name": "Chupa Chupa BIG BOM XXL - Fresa",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 36.0
+        },
+        {
+          "name": "Chupa Chupa BIG BOM XXL - Tatama",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 36.0
+        },
+        {
+          "name": "Piñateras Leleco 3.08LB",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "Leleco",
+          "price_cup": 2150.0
+        },
+        {
+          "name": "BLACK & WHITE",
+          "category": "Dulces",
+          "origin": "",
+          "manufacturer": "BLACK & WHITE",
+          "price_cup": 120.0
+       }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "establishment": {
+      "name": "MIPYME z001",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1376950,
+          "longitude": -82.3846020
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 825.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 650.0
+        },
+        {
+          "name": "Vinagre",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 450.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 850.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 400.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Leche condensada",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1500.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "establishment": {
+      "name": "MIPYME z002",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1444160,
+          "longitude": -82.3922150
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 680.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 300.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 800.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 320.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 400.0
+        },
+        {
+          "name": "Leche condensada",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 550.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 900.0
+        },
+        {
+          "name": "Leche en polvo",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 820.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "establishment": {
+      "name": "MIPYME z003",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1397210,
+          "longitude": -82.3985830
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Azúcar",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 720.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 350.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 990.0
+        },
+        {
+          "name": "Leche condensada",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 550.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1300.0
+        },
+        {
+          "name": "Leche en polvo",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1650.0
+        },
+        {
+          "name": "Cartón de huevos",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 3500.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "establishment": {
+      "name": "MIPYME z004",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1390270,
+          "longitude": -82.3990350
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 660.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 250.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 320.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 450.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 890.0
+        },
+        {
+          "name": "Harina",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 450.0
+        },
+        {
+          "name": "Leche condensada",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 530.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1100.0
+        },
+        {
+          "name": "Leche en polvo",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1675.0
+        },
+        {
+          "name": "Cartón de huevos",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 3300.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "establishment": {
+      "name": "MIPYME z005",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1390270,
+          "longitude": -82.3990350
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 720.0
+        },
+        {
+          "name": "Azúcar",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 690.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 270.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 340.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 540.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 970.0
+        },
+        {
+          "name": "Harina",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Leche condensada",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 540.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 900.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "establishment": {
+      "name": "MIPYME z006",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1386790,
+          "longitude": -82.3993750
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 650.0
+        },
+        {
+          "name": "Azúcar",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 700.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 250.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 350.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 540.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 950.0
+        },
+        {
+          "name": "Harina",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 700.0
+        },
+        {
+          "name": "Leche condensada",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 540.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1000.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "establishment": {
+      "name": "MIPYME z007",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1262490,
+          "longitude": -82.4033380
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 660.0
+        },
+        {
+          "name": "Azúcar",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 700.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 350.0
+        },
+        {
+          "name": "Vinagre",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 400.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 350.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 550.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 970.0
+        },
+        {
+          "name": "Harina",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 800.0
+        },
+        {
+          "name": "Leche condensada",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 550.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1250.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "establishment": {
+      "name": "MIPYME z008",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1419160,
+          "longitude": -82.3868660
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 780.0
+        },
+        {
+          "name": "Vinagre",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 850.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 330.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 540.0
+        },
+        {
+          "name": "Harina",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 650.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1750.0
+        },
+        {
+          "name": "Cartón de huevos",
+          "category": "Carnicos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 3300.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "establishment": {
+      "name": "MIPYME z009",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1431250,
+          "longitude": -82.3869920
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Azúcar",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 810.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 700.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 350.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 540.0
+        },
+        {
+          "name": "Harina",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 2200.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "establishment": {
+      "name": "MIPYME z010",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1432850,
+          "longitude": -82.3876650
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 760.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 750.0
+        },
+        {
+          "name": "Vinagre",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 770.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 540.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 430.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 450.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 980.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 950.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "establishment": {
+      "name": "MIPYME z011",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1341510,
+          "longitude": -82.3982220
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 650.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 680.0
+        },
+        {
+          "name": "Vinagre",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 350.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 320.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 450.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 990.0
+        },
+        {
+          "name": "Leche condensada",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 600.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "establishment": {
+      "name": "MIPYME z012",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1309350,
+          "longitude": -82.4087380
+        }
+      },
+      "products": [
+        {
+          "name": "Azúcar",
+          "category": "Azúcar",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 700.0
+        },
+        {
+          "name": "Sal",
+          "category": "Condimentos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 300.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 450.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 310.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 960.0
+        },
+        {
+          "name": "Leche condensada",
+          "category": "Lácteos",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 550.0
+        },
+        {
+          "name": "Mayonesa",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1600.0
+        }
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "establishment": {
+      "name": "MIPYME z013",
+      "location": {
+        "municipality": "Plaza",
+        "address": "Dirección no especificada",
+        "coordinates": {
+          "latitude": 23.1303850,
+          "longitude": -82.4083420
+        }
+      },
+      "products": [
+        {
+          "name": "Arroz",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 700.0
+        },
+        {
+          "name": "Frijoles",
+          "category": "Legumbres",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 600.0
+        },
+        {
+          "name": "Espagueti",
+          "category": "Pastas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 400.0
+        },
+        {
+          "name": "Salsa de tomate",
+          "category": "Procesados",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 500.0
+        },
+        {
+          "name": "Aceite",
+          "category": "Grasas",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 1100.0
+        },
+        {
+          "name": "Harina",
+          "category": "Cereales",
+          "origin": "",
+          "manufacturer": "",
+          "price_cup": 630.0
+       }
+      ]
+    }
+  }
+]
